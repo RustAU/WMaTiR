@@ -1,6 +1,6 @@
 # WMaTiR
 
-[![Discord chat][discord-badge][Discord]
+[![Discord chat][discord-badge]][Discord]
 
 We Made a Thing in 🦀
 
