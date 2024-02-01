@@ -1,6 +1,6 @@
 # WMaTiR
 
-[Discord]
+[![Discord chat][discord-badge][Discord]
 
 We Made a Thing in 🦀
 
@@ -29,3 +29,4 @@ Starts from 1st February with final MVP Demo day on X April 2024
 
 [areweat]: https://github.com/areweat
 [Discord]: https://discord.gg/pW35BNSBeV
+[discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
