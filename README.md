@@ -16,6 +16,11 @@ Idea is to have people ship projects
 
 Come join us in [Discord] under WMaTiR category channels
 
+# Details
+
+- All projects must be public e.g github/gitlab etc. and in the open to track progress
+- Projects are FLOSS - licensed permissive per usual - no CLA's etc. shenanigans MIT/Apache 2.0
+
 # 2024 Inaugural
 
 Starts from 1st February with final MVP Demo day on X April 2024
