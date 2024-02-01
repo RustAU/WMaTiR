@@ -1,6 +1,6 @@
 # WMaTiR
 
-[discord]
+[Discord]
 
 We Made a Thing in 🦀
 
@@ -14,7 +14,7 @@ This is why we created WMaTiR !
 
 Idea is to have people ship projects 
 
-Come join us in [discord] under WMaTiR category channels
+Come join us in [Discord] under WMaTiR category channels
 
 # 2024 Inaugural
 
@@ -28,4 +28,4 @@ Starts from 1st February with final MVP Demo day on X April 2024
 | Yours ?  | .. got an idea ? | You and your mates | ..        | Ofc!       |
 
 [areweat]: https://github.com/areweat
-[discord]: https://discord.gg/pW35BNSBeV)
+[Discord]: https://discord.gg/pW35BNSBeV
