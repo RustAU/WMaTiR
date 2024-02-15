@@ -31,6 +31,7 @@ Starts from 1st February with final MVP Demo day on X April 2024
 | :--      | :--              | :--                | :--       | :--        |
 | arewe.at | MeetUp Killer    | @pinkforest @thomaseizinger       | [areweat] | Yes        |
 | kRusty's DNS funhouse | Webhook plugin for k8s external-dns to use unbound DNS on OPNsense | @arichtman | [link](https://github.com/arichtman/external-dns-opnsense) | Sure |
+| Chroma Lang | A new programming language for backend web development (compiled with Rust) | @arduano | [link](https://github.com/arduano/chroma) | Depends |
 | Yours ?  | .. got an idea ? | You and your mates | ..        | Ofc!       |
 
 [areweat]: https://github.com/areweat
